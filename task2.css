@@ -1,0 +1,24 @@
+/* Common properties for all div elements */
+div {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    height: 150px;
+    width: 400px;
+}
+
+/* Class selector for second div */
+.second {
+    background-color: lightblue;
+    color: darkblue;
+    text-align: center;
+    font-family: Arial;
+}
+
+/* ID selector for third div */
+#third {
+    background-color: lightgreen;
+    color: darkgreen;
+    text-align: right;
+    font-family: Georgia;
+}
