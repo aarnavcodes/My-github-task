@@ -1,0 +1,41 @@
+/* Style for the whole page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    margin: 30px;
+}
+
+/* Heading styling */
+h1 {
+    color: blue;
+    font-size: 36px;
+    text-align: center;
+}
+
+/* Image styling */
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: black;
+}
+
+/* Skills list using class selector */
+.skills {
+    background-color: lightblue;
+    color: darkblue;
+    padding: 20px;
+    border: 2px solid blue;
+    width: 200px;
+}
+
+.skills li {
+    margin: 10px;
+}
